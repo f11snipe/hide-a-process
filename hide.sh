@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # A simple script to hide a process
 # Created by @MatheuzSecurity
 # https://twitter.com/inferigang
